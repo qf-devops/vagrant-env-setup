@@ -24,7 +24,7 @@
       ":memory": 1024,
       ":bootstrap": "bootstrap.sh"
     },
-    "nexus.example.com": {
+    "nexue.example.com": {
       ":ip": "192.168.32.40",
       "ports": [],
       ":memory": 1024,
